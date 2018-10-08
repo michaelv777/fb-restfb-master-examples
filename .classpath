@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/com/restfb/restfb/1.39.0/restfb-1.39.0.jar" sourcepath="M2_REPO/com/restfb/restfb/1.39.0/restfb-1.39.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Projects/MavenRepository/com/restfb/restfb/1.39.0/restfb-1.39.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
